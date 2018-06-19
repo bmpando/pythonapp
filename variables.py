@@ -3,7 +3,7 @@ greeting='hell no '
 print (greeting)
 
 mystr='hello'
-myint=25
+myint=26
 myfloat=1.3
 
 mylist=[1,2,3,'HEllo']
